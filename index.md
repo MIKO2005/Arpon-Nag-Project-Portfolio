@@ -3,7 +3,7 @@ Smile detection is a subfield of facial expression analysis with applications ra
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-|Arpon Nag | Jashore Govt. City College | Computer Science /Artificial intelligence | Incoming Senior
+|Arpon Nag | Jashore Govt. City College | Computer Science /Artificial intelligence | Junior
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
@@ -20,7 +20,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was training my machine learning model for the project. It took various steps to reach that stage. Such as, I had to start with loading the datasets, then producing the smile training data. Eventually, this led to training my model to recognize smiling faces. To do this, the previous steps were very important. Before completing the first milestone, the issues I ran into were mainly not being that well acquainted with the libraries that I have been working with and some problems regarding debugging the codes. To overcome the problems, at first, I concentrated on learning a bit more about the libraries I have been using. Other than that, to debug the code, I tried to traceback to the error and understand why it’s happening, and then if it still doesn’t get fixed, I tried googling to find the solution, and my last resort was reaching out to my instructor for help. 
 
 <iframe width="700" height="300" src="https://www.youtube.com/embed/-AdSaFHJstY" title="Arpon N Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
