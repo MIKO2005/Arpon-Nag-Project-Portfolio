@@ -22,6 +22,12 @@ My first milestone was training my machine learning model for the project. It to
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/-AdSaFHJstY" title="Arpon N Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#Required tools/devices.
+| **Project title** | **Project field** | **Required** | **Recommended** |
+|:--:|:--:|:--:|:--:|
+|Smile Recognition Using OpenCV and scikit-learn | Computer Science /Artificial intelligence | Computer/Laptop, Webcam, Python IDE | Jupyter Notebook
+
+
 
 # Project Code
 
