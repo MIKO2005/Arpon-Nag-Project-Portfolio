@@ -29,6 +29,12 @@ My first milestone was training my machine learning model for the project. It to
 |:--:|:--:|:--:|:--:|
 |Smile Recognition Using OpenCV and scikit-learn | Machine Learning | Computer/Laptop, Webcam, Python IDE | Jupyter Notebook
 
+| **Links to go through** |
+|:--:|
+|1. https://devdocs.io/scikit_learn/
+2. https://docs.opencv.org/4.x/|
+
+
 
 
 # Project Code
