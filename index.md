@@ -23,8 +23,11 @@ My first milestone was training my machine learning model for the project. It to
 <iframe width="700" height="400" src="https://www.youtube.com/embed/-AdSaFHJstY" title="Arpon N Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+# Project Code
+
 ```Python
 <
+# Part 1
 # Loading the faces dataset
 %matplotlib inline
 from pylab import *
