@@ -24,6 +24,16 @@ My first milestone was training my machine learning model for the project. It to
 
 
 ```Python
-<code here>
+<
+%matplotlib inline
+from pylab import *
+from pylab import *
+import IPython
+import ipywidgets as widgets
+from ipywidgets import HBox, VBox
+import numpy as np
+import matplotlib.pyplot as plt
+from IPython.display import display
+>
 ```
 
