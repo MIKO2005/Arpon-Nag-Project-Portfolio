@@ -31,8 +31,7 @@ My first milestone was training my machine learning model for the project. It to
 
 | **Links to go through** |
 |:--:|
-|1. https://devdocs.io/scikit_learn/
-2. https://docs.opencv.org/4.x/|
+|1. https://devdocs.io/scikit_learn/ 2. https://docs.opencv.org/4.x/|
 
 
 
