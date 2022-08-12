@@ -7,6 +7,7 @@ Smile detection is a subfield of facial expression analysis with applications ra
 
 <img src="IMG_20220812_224656.jpg" width="400" height="500" />
 
+![Headstone Image](IMG_20220812_224656.jpg)
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
