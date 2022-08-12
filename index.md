@@ -24,9 +24,9 @@ My first milestone was training my machine learning model for the project. It to
 
 # Required tools/devices.
 
-| **Project title** | **Project field** | **Required** | **Recommended** |
+| **Project title** | **Project field** | **Required Components** | **Recommended Component** |
 |:--:|:--:|:--:|:--:|
-|Smile Recognition Using OpenCV and scikit-learn | Computer Science /Artificial intelligence | Computer/Laptop, Webcam, Python IDE | Jupyter Notebook
+|Smile Recognition Using OpenCV and scikit-learn | Machine Learning | Computer/Laptop, Webcam, Python IDE | Jupyter Notebook
 
 
 
