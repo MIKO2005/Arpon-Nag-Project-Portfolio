@@ -5,7 +5,7 @@ Smile detection is a subfield of facial expression analysis with applications ra
 |:--:|:--:|:--:|:--:|
 |Arpon N. | Jashore Govt. City College | Computer Science /Artificial intelligence | Junior
 
-<img src="https://github.com/MIKO2005/Arpon-Project-Portfolio/blob/f1c9aa03e48e0eb8a0569f8fa0e7224ed1af5bdd/IMG_20220812_224656.jpg" width="500" height="650" />
+<img src="https://github.com/MIKO2005/Arpon-Project-Portfolio/blob/f1c9aa03e48e0eb8a0569f8fa0e7224ed1af5bdd/IMG_20220812_224656.jpg" width="440" height="650" />
 
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
