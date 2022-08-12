@@ -9,9 +9,6 @@ Smile detection is a subfield of facial expression analysis with applications ra
 
 ![Headstone Image](IMG_20220812_224656.jpg)
 
-![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
-
-
 # Final Milestone
 My final milestone is to finish the "face recognition and prediction using openCV" section of my project. In this milestone, I set up an algorithm to do the following things using still images of my face capture with the webcam (hence the name "offline"): [1] face detection on a supplied input image [2] extraction of features from within the detected face; these features should have the same size than the ones that we used during the training of the SVC classifier above (i.e. 64x64 gray scale images) [3] predicting if the detected person is smiling using the previously trained classifier
 
