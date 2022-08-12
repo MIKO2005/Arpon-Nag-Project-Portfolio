@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My final milestone is to finish the "face recognition and prediction using openCV" section of my project. In this milestone, I set up an algorithm to do the following things using still images of my face capture with the webcam (hence the name "offline"): [1] face detection on a supplied input image [2] extraction of features from within the detected face; these features should have the same size than the ones that we used during the training of the SVC classifier above (i.e. 64x64 gray scale images) [3] predicting if the detected person is smiling using the previously trained classifier
 
 <iframe width="708" height="398" src="https://www.youtube.com/embed/iDKxiOa4COU" title="Arpon N Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
